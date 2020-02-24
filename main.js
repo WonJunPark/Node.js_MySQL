@@ -1,5 +1,5 @@
 //경로
-// C:\Bitnami\wampstack-7.3.13-0\apache2\nodejun
+// C:\Bitnami\wampstack-7.3.13-0\apache2\sqljun
 //서버 실행
 // pm2 start main.js --watch --no-daemon
 
